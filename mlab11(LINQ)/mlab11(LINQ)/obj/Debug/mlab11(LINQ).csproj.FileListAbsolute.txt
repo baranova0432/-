@@ -1,0 +1,14 @@
+D:\ООП\лабы\mlab11(LINQ)\mlab11(LINQ)\bin\Debug\mlab11(LINQ).exe.config
+D:\ООП\лабы\mlab11(LINQ)\mlab11(LINQ)\bin\Debug\mlab11(LINQ).exe
+D:\ООП\лабы\mlab11(LINQ)\mlab11(LINQ)\bin\Debug\mlab11(LINQ).pdb
+D:\ООП\лабы\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).csprojAssemblyReference.cache
+D:\ООП\лабы\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).csproj.CoreCompileInputs.cache
+D:\ООП\лабы\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).exe
+D:\ООП\лабы\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).pdb
+E:\ООП\лабки\mlab11(LINQ)\mlab11(LINQ)\bin\Debug\mlab11(LINQ).exe.config
+E:\ООП\лабки\mlab11(LINQ)\mlab11(LINQ)\bin\Debug\mlab11(LINQ).exe
+E:\ООП\лабки\mlab11(LINQ)\mlab11(LINQ)\bin\Debug\mlab11(LINQ).pdb
+E:\ООП\лабки\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).csprojAssemblyReference.cache
+E:\ООП\лабки\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).csproj.CoreCompileInputs.cache
+E:\ООП\лабки\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).exe
+E:\ООП\лабки\mlab11(LINQ)\mlab11(LINQ)\obj\Debug\mlab11(LINQ).pdb

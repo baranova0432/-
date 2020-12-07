@@ -1,0 +1,14 @@
+D:\ООП\лабы\mlab16(streams)\mlab16(streams)\bin\Debug\mlab16(streams).exe.config
+D:\ООП\лабы\mlab16(streams)\mlab16(streams)\bin\Debug\mlab16(streams).exe
+D:\ООП\лабы\mlab16(streams)\mlab16(streams)\bin\Debug\mlab16(streams).pdb
+D:\ООП\лабы\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).csprojAssemblyReference.cache
+D:\ООП\лабы\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).csproj.CoreCompileInputs.cache
+D:\ООП\лабы\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).exe
+D:\ООП\лабы\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).pdb
+E:\ООП\лабки\mlab16(streams)\mlab16(streams)\bin\Debug\mlab16(streams).exe.config
+E:\ООП\лабки\mlab16(streams)\mlab16(streams)\bin\Debug\mlab16(streams).exe
+E:\ООП\лабки\mlab16(streams)\mlab16(streams)\bin\Debug\mlab16(streams).pdb
+E:\ООП\лабки\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).csprojAssemblyReference.cache
+E:\ООП\лабки\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).csproj.CoreCompileInputs.cache
+E:\ООП\лабки\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).exe
+E:\ООП\лабки\mlab16(streams)\mlab16(streams)\obj\Debug\mlab16(streams).pdb

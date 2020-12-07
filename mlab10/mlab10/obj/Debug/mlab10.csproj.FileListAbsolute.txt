@@ -1,0 +1,7 @@
+D:\ООП\лабы\mlab10\mlab10\bin\Debug\mlab10.exe.config
+D:\ООП\лабы\mlab10\mlab10\bin\Debug\mlab10.exe
+D:\ООП\лабы\mlab10\mlab10\bin\Debug\mlab10.pdb
+D:\ООП\лабы\mlab10\mlab10\obj\Debug\mlab10.csprojAssemblyReference.cache
+D:\ООП\лабы\mlab10\mlab10\obj\Debug\mlab10.csproj.CoreCompileInputs.cache
+D:\ООП\лабы\mlab10\mlab10\obj\Debug\mlab10.exe
+D:\ООП\лабы\mlab10\mlab10\obj\Debug\mlab10.pdb

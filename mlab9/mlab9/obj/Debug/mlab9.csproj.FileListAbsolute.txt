@@ -1,0 +1,7 @@
+D:\ООП\лабы\mlab9\mlab9\bin\Debug\mlab9.exe.config
+D:\ООП\лабы\mlab9\mlab9\bin\Debug\mlab9.exe
+D:\ООП\лабы\mlab9\mlab9\bin\Debug\mlab9.pdb
+D:\ООП\лабы\mlab9\mlab9\obj\Debug\mlab9.csprojAssemblyReference.cache
+D:\ООП\лабы\mlab9\mlab9\obj\Debug\mlab9.csproj.CoreCompileInputs.cache
+D:\ООП\лабы\mlab9\mlab9\obj\Debug\mlab9.exe
+D:\ООП\лабы\mlab9\mlab9\obj\Debug\mlab9.pdb

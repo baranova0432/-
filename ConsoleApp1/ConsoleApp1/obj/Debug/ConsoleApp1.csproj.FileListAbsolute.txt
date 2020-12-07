@@ -1,0 +1,7 @@
+E:\ООП\лабки\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\ООП\лабки\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\ООП\лабки\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\ООП\лабки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\ООП\лабки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\ООП\лабки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\ООП\лабки\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
